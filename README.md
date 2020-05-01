@@ -1,3 +1,4 @@
+
 # Task Manager
 
 ## CRUD in Rails
@@ -951,3 +952,28 @@ Congrats! You have finished your first Rails app that can handle full CRUD funct
 ### Completed Repository
 
 If you had any trouble getting things working as described, or if you are just wanting to see exactly what your files should look like at the end of the tutorial, you can take a look at a completed version [here](https://github.com/turingschool-examples/task_manager_rails_complete)
+
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
